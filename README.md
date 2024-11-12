@@ -1,9 +1,24 @@
-Curso de Data Science com Python baseado em projetos
+# Curso de Data Science com Python 🎓🐍  
+**Curso baseado em projetos práticos para aprender Data Science de forma aplicada!**
 
-Projetos práticos com dados reais. Machine Learning, Análise Estatística e muito mais!
+Neste curso, você vai trabalhar com dados reais e aprenderá a aplicar técnicas fundamentais de Data Science, incluindo:
+- **Machine Learning**
+- **Análise Estatística**
+- **Manipulação e Visualização de Dados**
+- E muito mais!
 
+### Projetos Práticos 🚀
+Cada módulo inclui projetos práticos que ajudam a desenvolver habilidades reais, preparando você para desafios do mercado.
 
-Sobre a Autora
-Priscila Conceição Araújo é uma Desenvoledora Júnior que atua na área de programação desde 2018, com experiência em desenvolvimento de software, sistemas web e mobile. 
-Já realizou três estágios na área e está em busca de uma oportunidade júnior. Principal linguagem de programação é Python. 
-Técnica em automação e atualmente se graduando  em Ciência da Computação. Se especializa em frameworks para Front-end e Back-end como Reactjs, Ionic e Nodejs, e, atualmente pesquisa na área de Lógica, Grafos, Combinatória e segue na área de dados no Mercado de Trabalho.
+---
+
+### Sobre a Autora 👩‍💻
+**Priscila Conceição Araújo** é uma desenvolvedora júnior com experiência em desenvolvimento de software, sistemas web e mobile desde 2018. Ao longo de sua jornada, realizou três estágios na área e está em busca de uma nova oportunidade júnior.
+
+- **Principal linguagem:** Python 🐍
+- **Formação:** Técnica em Automação e graduanda em Ciência da Computação.
+- **Experiência:** Desenvolvimento com frameworks de Front-end e Back-end, como React.js, Ionic e Node.js.
+- **Áreas de pesquisa e interesse profissional:** Lógica, Grafos, Combinatória e Ciência de Dados.
+
+Priscila continua a se especializar em Ciência de Dados e a explorar novas oportunidades no mercado.
+
